@@ -4,6 +4,14 @@
 
 ![image](https://github.com/Elbiabuglio/dslist/assets/101484328/1e481981-cd2d-4ec7-afd8-83eaf36363a5)
 
+# Sistemas web
+
+![aula1-intensivao-java-spring_pages-to-jpg-0007](https://github.com/Elbiabuglio/dslist/assets/101484328/9593df16-3dbf-4d4d-866f-cc6a67968f16)
+
+# Padrão camadas
+
+![img87](https://github.com/Elbiabuglio/dslist/assets/101484328/13d54ea1-d975-491d-8ab5-12f40fc48d02)
+
 # Conceitos
 
 • Sistemas web e recursos
